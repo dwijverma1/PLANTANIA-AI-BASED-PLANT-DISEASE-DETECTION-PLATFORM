@@ -1,0 +1,5 @@
+Plantania:
+Pictures of infected plant to be uploaded on web app and it would predict the disease, symptoms and prevention.
+Target Audience:- Farmers
+Usage:- Image detection, OpenCV, TensorFlow, Streamlit
+Future Scope:- Enable this feature for many other plants and its species & Provide the contact details of a botanist, expert in the cure of that particular disease.

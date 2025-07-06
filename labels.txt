@@ -1,0 +1,7 @@
+0 Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+1 Cherry_(including_sour)___Powdery_mildew
+2 Cherry_(including_sour)___healthy
+3 Apple___healthy
+4 Apple___Cedar_apple_rust
+5 Apple___Black_rot
+6 Apple___Apple_scab
